@@ -1,20 +1,28 @@
 
 .incomum {
-    
+    background-position: center;
+    border-radius: 100%;
+    background-size: 120px;
     background-image: url(data:image/webp;base64,UklGRn4CAABXRUJQVlA4IHICAABQFQCdASqwALAAPm00lkkkJaIkJFEIsLANiWluvTBZ48CxBiW1ipADXABfkDTbzXAp/ZRNEPcqux7vWEtT8RYB0z855789o1rMuoaIXJWPU8QvXUdqQ7f4hHp5+4SC/a77Mj685s+cRBrXNKWzy97YkpMwRGfWft7Hl8tgeKbB5208t0nX5hp8wTpbJLdT/ESLlxLpwWV+U87BeA5mTrJPk81vAObXNt+RImThmdQs1PszAAD+9ERh7ilehvxJoAfN4yR/qggA69yhvIbo07sOeEL5MWcaSn21NtdKhYx36K/0fHSQ0xW8kAMmXMEZFdae7mS3cRCB3r5Pe7iH+DdM9+SoFJM6tUbjNL+CUIQsz2XJ59QMh2mQgT3mLOrH3Yn4KMufymda0t5fwZ4lHEsIh1JJd8diBulIK8FeGixRgpY4yK70N8EV1xA9bN3y0fSuGRwdgR8XHTO4g4bJbE61Re/xPOmMtlygiBIh1hVtUKjOfEKZkYdEO7tWrbjkNV5wyaaQGqv//1ZXlOAd3ONVw876CNcK1f9X9m4g8BzZPAB94NKNjuwbx4qbTYNohcHUBVz0RO9mHFXjmLHmLk1U674T9DNsTyXR5kurI8xYxZjTlifgaTJXuj2NwNKQFaoQJwAiGa491C9CO0+pXuX2DOOTFkI6mCSUz5f2zHrui82OBI9o7Xno0Je9ughCrzncTgYt0WPsTk1g1iFl/YziFo+0w6qg1jrAZqsJvNdCMlG29yX8f/+OJCV18DUTi5/5otQFlyPutox0cwXmBip+RSH6Y3xljzcrLytecP0iaoIPgP+Pm3IIgeL6qhZRhjUAAA==);
 }
 .raro {
-    background-size: 50px;
+    background-position: center;
+    border-radius: 100%;
+    background-size: 120px;
     border: 0;
     background-image: url(data:image/webp;base64,UklGRtQCAABXRUJQVlA4IMgCAADQFQCdASqwALAAPm00lkkkIqIkJNDo2IANiWcYn3KMsnmzTkEJaVngOd6yACyZABrgAe5MVWm8A+RizFmjzmMeJUeF/dWSQfoiIM/jgu8PNyvWiGyNCqPLujzoS4Sm67//NUBrduRYP+L8HqfgxT06yFK27+/Ivv0U/bHQg9mwvKxLHKTNThp6lxdIxwWJaI0qZLOaTHSNsCrBT/5W0DKiuGY6gmnO1vgzN7Fwq0osTKqQIcLty2gA/vms8te2po0H8BDf7t2qeZpIbv5FeSjz7rf/AM7H93DN74d7BzgCUN08a7iRXDEkWdLRPkVxhV7PDzdG3yP9WnbZUhbi3NPY9TUDZHB1MElh5wGyyRiFexBFHlKDRwDb+gCHVd44pnCN4KFAtdjProKGlfVHym7rbl4wYz999mNhJY+icrBuQIVN3gM0LhCGMD5+sveFxiB145kcSSo22sCqa9rITidNuhdeSw5NP/oBZkSxxlWZ6tA8RzrvhbS6szoAMUIL1S9fIiOadAv76NVIK1WIxL8T82jaDUvjZvtJV2N394Ws4CihMpmWkDtdoTG/NCLlpfO7Q6Ssib6Tdo7VzBlkVGbfL389+yXqx8Csh0+sk+eQiOS8mSmS2j0typtphOBRHIkwz60o0jS0r1aQUCjLlRJEql13mSNth8KdogYY+S7nNGDXysNDhHynG1WL7+urA7RUYTdLhvbQ9aRsjNNzr1PiKwXTn3cB9UT+g74zQztJP8/byCnRIlYEOVpqz1dvEitbsRMAGgRayIkrH6o9xAbEskYZrGszk0ZtyPbg3AS9hOIJSwUBi8WWjrhlYaCB6ODeupXfzPuINIMS88UCXft4CkcQKMFIiQXCA8ZtO8nxeIlfII4XQLi+s1rzPb2Jlq4uDJhbKRUPXGQN2jZGWu7VahlhiMVIANu7CGhVyIpXDBYRQse3mtAA);
 }
 .epico {
-    background-size: 50px;
+    background-position: center;
+    border-radius: 100%;
+    background-size: 120px;
     border: 0;
     background-image: url(data:image/webp;base64,UklGRvwDAABXRUJQVlA4IPADAADwGwCdASqwALAAPm00lEgkKKGhJ3QJYRANiWUHHGONIFPb92Y7dS2atOU9ACyTALfWT0BgKtIWyfPdRjCbEX8lblzJSoOqW2te/O6O5QKcP9Dlzl76KPpKUPvLW8Fr+Prb1iDsSfy+G8d1CHI8I2fKMy37fyjbiUv60lqyf0hjhgMGptxJ10mA3o2O1+wnc0sVy4x2qwwGFsfZwD0CjqAPvyIeGkuX2nJIbdt8gAJEJaKyDEX/TYTVKEUpIiJMWpTiTkO/fmI0/7hMZ4dxH5lFZvNFqa8DL5zhMB+Lax1ee8t4JPG9UNMwAP76AfO5cUFE4mFZ31TFFLAlyjU+7piKf/4mGzb+n+1okjmF+W3tv+D9Rt+QF7H0/4N1md3IpUMFkOyje172M7ZwCk4Zje9AV+Gt1iyxBtYGqXQ21xTphorH4nw75q7vEZGDcNGr8f8m+8yWNsi6/euWYd9rg94UOxqFGwQp0JniwYX2SfZ5eV88q12xBfjIRnBJXw6BzRU1BHliAWY8J4ZTL3jQhywD3hG3iQTioEf7NW67sk0RxGdL37ao08Z1EXXNncoIBKlKSKMqK0XcJLQc2x/pqCwmMRjxmgGSqgnE7fIqlPv50dfQwc0Aje5EZsT9kOQOPdWMW1+Hw1a+w/oPjfFq+Q31xZlUvDkevDFnE7iFldquDfVu4OEJPiir12GzNYJRMdxvgox/vha0QpRDegUM0mxEyV6fusLyKNrX7BBKfSgggCCXnJ48yUU3AdWQKfSlilwL5VSiUj8Doq7LJamV9IHIUw/AucR8yRbTnxdGmUD9cx+3rD5DyB3+R/NmsgUrqRItgoY8YEfHmVDDVjWYHaivOcIritGDucsTUzMeqPZd49+9xuIgOE1LZ35kJpmUaVzI4tucCgWFR6k+ZzgtXyt98Q8JhFUNOo02mgbX/Er9CpfJXGIM629hDRHTFBTAYvBF+3DKZVXapWhDydaR2GBENxuNgG2cLLd8Hc6esja0oke4OxHky6j4RxVqFqxUiQcZ3kKcVjHmAEqJtvqhmTzdu/dJRTANT3S36Q0JqTrl6c0RsCoqxCJMCVfozsLBXbDtU69HaaOD0OOHDks7sccEAUJCFHGqiLAZx33iL2cs88MnMtO6L+EDhrG1+sUjMdNsQq1UrGt/TW0vAa+is2eruf9FliVL8/mctlML7ooeIoP5086Ik8oicDnDl9+jNrN0sfcHWJhxKU0ZAC945wCFjJ4m6a/rHiUvHrraX0zWlwBThMFmZm7XgkXdYWji4WXU7iBfVkN5xCuI5t2y2PrTM1JXoLAsBwHHsrjQvj2sCr9rpSzmqn3L2C7s5kAAAAA=);
 }
 .lendario {
-    background-size: 50px;
+    background-position: center;
+    border-radius: 100%;
+    background-size: 120px;
     border: 0;
     background-image: url(data:image/webp;base64,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);
 }
@@ -31,6 +39,7 @@ font-style: oblique ;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .main{
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -42,12 +51,17 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 .grid-container {
     display: flex;
     grid-template-columns: auto auto auto;
-    background-color: #000;
-    margin-bottom: 10px;
+
+    margin-bottom: 25px;
   }
   .grid-item {
-    width: 50px;
-    height: 50px;
+    box-shadow: 5px 3px 3px rgb(0, 0, 0, 0.3);
+    padding-top: 15px;
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
     text-align: center;
     margin-left: 10px;
     margin-right: 10px;
