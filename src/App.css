@@ -1,7 +1,7 @@
 body{
-  background: #000;
-  background-image: url(https://picfiles.alphacoders.com/402/thumb-1920-402513.jpg);
-  background-size: 100h;
+  background: #020219;
+  background-size: 300vw;
+  background-position: center;
 }
 .App{
   display: flex;
